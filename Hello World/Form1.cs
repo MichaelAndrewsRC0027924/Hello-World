@@ -20,7 +20,7 @@ namespace Hello_World
         private void button1_Click(object sender, EventArgs e)
         {
 
-            MessageBox.Show("Goodbye " + txtBxName.Text); 
+            MessageBox.Show("Welcome to Michael's proramme " + txtBxName.Text); 
         }
     }
 }
